@@ -12,8 +12,8 @@
 
 👤 **Jin**
 
-* Website: https://sangsangjin.tistory.com/
 * Github: [@MoonSangJin](https://github.com/MoonSangJin)
+* Key Questions Summary : https://www.notion.so/FrontEnd-59d8608e7be04df9a501792b12c9ca32
 
 <br/><br/>
 # 📝CEOS Front-end 1주차 미션: Vanilla-Todo
