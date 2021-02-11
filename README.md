@@ -156,7 +156,7 @@
 
 <br/><br/><br/>
 
-# So What did you make? 😉<br/><br/> ![image](./clique.svg) Clique (Coming soon...)
+# So What did you make? 😉<br/><br/> ![image](./logo.png)
 
 
 
