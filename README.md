@@ -10,7 +10,7 @@
 
 ## Author
 
-👤 **Jin**
+👤 **MoonSangJin**
 
 * Github: [@MoonSangJin](https://github.com/MoonSangJin)
 * Key Questions Summary : https://www.notion.so/FrontEnd-59d8608e7be04df9a501792b12c9ca32
