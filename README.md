@@ -1,4 +1,4 @@
-<h1 align="center">🙏Thanks_to_CEOS🙏</h1>
+<h1 align="center">🙏Thanks_to_CEOS</h1>
 <p>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -156,7 +156,7 @@
 
 <br/><br/><br/>
 
-# So What did you make? 😉<br/><br/> ![image](./logo.png)
+# So What did you make? 😉<br/><br/> [![pressMe](./logo.png)](https://github.com/MoonSangJin/What_is_Clique)
 
 
 
